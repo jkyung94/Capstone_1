@@ -1,24 +1,23 @@
-# Repurpose-Drugs
+# Jobs for H-1B Visa and US Permanent Visas
 
 ## Problem
-![alt text](https://pulse.embs.org/wp-content/uploads/sites/7/2017/05/keshava02-2678638.jpg)
-
-The drug discovery process is expensive, risky, complicated, and long. In fact, the costs of developing new drugs are only rising, but the amount of new drugs introduced fluctuates by the year. New techniques like drug repurposing help lower costs and time to bring new compounds to clinical trials and markets, but as we continue to invest billions of dollars into new therapeutics, one question we should address first is how efficiently we are addressing different diseases and injuries out there. Are we channeling the right amount of resources to different diseases or need to reprioritize and reproportion them to best fit the needs present and for the needs to come? Can we predict what diseases will become more prominent or find diseases that have become too neglected? Then can we consider already existing compounds for different diseases not considered originally? This project seeks to answer these questions.
+The H-1B Visa is a highly desired non-immigrant visa and the most common visa status applied for and held by international students upon graduating college/higher education and work in a full-time position. Other than these visas, the U.S. Permanent Visa is also highly desirable. Not every company is willing to support the visa so immigrants tend to have a more difficult time finding a job. This project will attempt to predict where they can more successfully get a job who sponsors them in the country.
 
 ## Clients
-* Pharmaceutical Companies
-* Government (FDA, CDC)
-* Biomedical Research & Development
+* Government
+* Any employers
+* Immigrant workers/international students
 
 ## Databases
-* [Drugbank](https://www.drugbank.ca/)
-* [Chronic Disease Indicators](https://catalog.data.gov/dataset/u-s-chronic-disease-indicators-cdi-e50c9)
-* [Leading Cause of Death](https://catalog.data.gov/dataset/age-adjusted-death-rates-for-the-top-10-leading-causes-of-death-united-states-2013)
-* [NIH Funding](https://report.nih.gov/categorical_spending.aspx)
+* [H-1B Visa Petitions 2011-2016](https://www.kaggle.com/nsharan/h-1b-visa/data)
+* [US Permanent Visa 2012-2017](https://www.kaggle.com/jboysen/us-perm-visas/data)
 
 ## Approach
+* Clean up the data from the database provided
+* Classification
+* Visualization: Map
 
 ## Deliverables
-* Python code: Data Wrangling, EDA, predictive 
+* Code: Data Wrangling, EDA, classification and predictive analysis 
 * Capstone Project Report
 * Capstone Project Presentation
